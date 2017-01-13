@@ -60,12 +60,12 @@
         "source": "C:\\Android_Studio_Projects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Android_Studio_Projects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Android_Studio_Projects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "C:\\Android_Studio_Projects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
         "source": "C:\\Android_Studio_Projects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Android_Studio_Projects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "C:\\Android_Studio_Projects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",

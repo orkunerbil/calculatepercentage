@@ -40,11 +40,11 @@ public class MainActivity extends AppCompatActivity {
                 {
                     if(numberEditText.getText().toString().trim().length() <=7)
                     {
-                        if((Integer.parseInt(percentageEditText.getText().toString()) <= 10000))
+                        if((Float.parseFloat(percentageEditText.getText().toString()) <= 10000))
                         {
                             float percentage = Float.parseFloat(percentageEditText.getText().toString());
                             float decimalValue = percentage / 100;
-                            float total  = decimalValue * Integer.parseInt(numberEditText.getText().toString());
+                            float total  = decimalValue * Float.parseFloat(numberEditText.getText().toString());
                             totalTextView.setText(formatFloat(total));
                         }
                         else
