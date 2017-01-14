@@ -1,4 +1,11 @@
-﻿# calculatepercentage
+### ENGLISH
+# Calculate Percentage
+Basic Android Application
+
+Calculates percentage of an entered number.
+
+### TURKISH
+# Yüzde Hesaplama
 Basit Android Uygulaması
-hello this is the second commit
-merhaba bu 3. commit
+
+Girilen sayıyı istenilen yüzdeye göre hesaplar.  
