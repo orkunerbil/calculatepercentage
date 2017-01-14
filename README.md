@@ -1,10 +1,10 @@
-### ENGLISH
-# Calculate Percentage
+#### ENGLISH
+## Calculate Percentage
 Basic Android Application
 
 Calculates percentage of an entered number.
 
-### TURKISH
+#### TURKISH
 # Yüzde Hesaplama
 Basit Android Uygulaması
 
